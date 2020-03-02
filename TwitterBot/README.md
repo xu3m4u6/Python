@@ -20,4 +20,5 @@ Open the script, and replace consumer_key, consumer_secret, access_token, and ac
 
 ### step5:
 
-You're good to go! Also, you can find a lot of things you can do in [Tweepy Document](http://docs.tweepy.org/en/latest/index.html#), and add to your twitterbot. 
+You're good to go! Also, you can find a lot of things you can do in [Tweepy Document](http://docs.tweepy.org/en/latest/index.html#), and add them to your twitterbot. 
+
