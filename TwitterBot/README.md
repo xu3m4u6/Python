@@ -12,7 +12,7 @@ Log in the page with your account. Click your account name and select Get starte
 
 ### step3:
 
-click create an app. Just follow the instructions and fill all the needed information. Click your account name and select Apps. You can see the app you created. In Details > Keys and tokens, the Consumer API keys and Access token are needed in step 4.
+click create an app. Just follow the instructions and fill all the needed information. Click your account name and select Apps, you can see the app you created. In Details > Keys and tokens, the Consumer API keys and Access token are needed in step 4.
 
 ### step4:
 
