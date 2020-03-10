@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pprint
-from urllib.parse import urljoin
 
 
 def sort_stories_by_votes(hnlist):
@@ -34,7 +33,7 @@ while(url):
 
 	if (len(morelink) != 0):
 		nextpage = morelink[0].get('href')
-		url = urljoin('https://news.ycombinator.com/', nextpage)
+		url = 'https://news.ycombinator.com/' + nextpage
 	else:
 		pprint.pprint(create_custom_hn(links, subtext))
 		break
