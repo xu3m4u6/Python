@@ -8,8 +8,8 @@ template = PyPDF2.PdfFileReader(open(input_file, 'rb'))
 watermark = PyPDF2.PdfFileReader(open(marker_file, 'rb'))
 output = PyPDF2.PdfFileWriter()
 
-for i in range(template.getNumPages()):
-	page = template.getPage(i)
+for j in range(template.getNumPages()):
+	page = template.getPage(j)
 	page.mergePage(watermark.getPage(0))
 	output.addPage(page)
 	
