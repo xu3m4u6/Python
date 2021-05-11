@@ -1,6 +1,6 @@
 # Python
 
-My python projects.
+My python exercises.
 
 - [Translator](https://github.com/xu3m4u6/Python/tree/master/Translator) - Translate the contents of the given file into Japanese.
 - [JPG-to-PNG-Converter](https://github.com/xu3m4u6/Python/tree/master/JPG-to-PNG-Converter) - Convert JPG images into PNG images.
